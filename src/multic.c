@@ -252,10 +252,10 @@ int getopt_menu(int argc, char **argv, SysSet *set)
 	//init 
 	set -> wi_sym = 1;
 	set -> wi_int = 1;
-	set -> wi_flo = 8;
+	set -> wi_flo = 6;
 	set -> wo_sym = 1;
-	set -> wo_int = 4;
-	set -> wo_flo =10;
+	set -> wo_int = 1;
+	set -> wo_flo = 8;
 	strcpy(set -> wi_symbol, "WI") ;
 	strcpy(set -> wo_symbol, "WO") ;
 	set -> preci = 0;
