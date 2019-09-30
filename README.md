@@ -25,7 +25,7 @@ wire [16-1:0]OUT = //(1+1+6)->(1+1+14)//multic 0.167890.
 ```
 
 ### Build 
-`multic` 遵循MIT开源协议。运行以下代码即可获取multic。
+`multic` 遵循GPL 3.0开源协议。运行以下代码即可获取multic。
 ```shell
 git clone https://github.com/maswell/multic.git
 cd multic 
